@@ -4,3 +4,7 @@ For 100 consecutive days, I've written HTML and CSS snippets as a creative learn
 
 # How to start
 This is <a href="https://100dayscss.com">the original website</a> of this challenge. You can go there and take the challenge. 
+
+# My Solutions
+## Day 1
+![day1](./assets/Day_1.PNG)
